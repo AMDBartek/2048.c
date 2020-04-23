@@ -2,7 +2,7 @@
  ============================================================================
  Name        : 2048.c
  Author      : AMDBartek a.k.a (Bartek Wreczycki)
- Description : Console version of the game "2048" for GNU/Linux
+ Description : Console version of the game "2048" for GNU/Linux written in C
  Credit to Maurits van der Schee for being the original Author of this code
  ============================================================================
  */
